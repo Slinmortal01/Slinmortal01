@@ -41,5 +41,5 @@
 <a href="https://github.com/Slinmortal01">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Slinmortal01&show_icons=true&theme=radical"/>
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slinmortal01&layout=compact&theme=radical"/>
-<img src="https://streak-stats.demolab.com?user=Slinmortal01&_border=true&theme=dark&hide_border=true&theme=radical" style="width: 75%" />
+<img src="https://streak-stats.demolab.com?user=Slinmortal01&_border=true&theme=dark&hide_border=true&theme=radical" style="width: 95%" />
 </div>
